@@ -17,13 +17,17 @@ Sales Data Analyzer using NumPy  A Python project that uses Object-Oriented Prog
 
 ## Example Usage
 
-'''obj = Sales([1200, 1500, 900, 2000, 1800, 2200, 1700])
+obj = Sales([1200, 1500, 900, 2000, 1800, 2200, 1700])
 
 print(obj.total_sales())
+
 print(obj.average_sales())
+
 print(obj.min_max_sales())
+
 print(obj.sales_above_avg())
-print(obj.percent_contribution())'''
+
+print(obj.percent_contribution())
 
 ## Learning Outcomes
 
